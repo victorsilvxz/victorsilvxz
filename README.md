@@ -49,8 +49,4 @@
 
 ###
 
-###
 
-<img src="https://raw.githubusercontent.com/vichtml/vichtml/output/snake.svg" alt="Snake animation" />
-
-###
