@@ -27,7 +27,7 @@
 <h2 align="left">Social Media | Mídias Sociais</h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/victwzin/" target="_blank">
+  <a href="https://www.instagram.com/alex.svictor/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
