@@ -1,6 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey, coders</h1>
 
-<p align="left">PT-BR<br>Meu nome é Alexsander Victor, graduando de Sistemas de Informação, técnico de informática e sou da área de desenvolvimento web.<br><br><br>EN<br>My name is Alexsander Victor, I am studying Information Systems, IT technician and I am in the web development area.</p>
+<p align="left">PT-BR<br>Meu nome é Alexsander Victor, graduando de Sistemas de Informação, Técnico de Informática e sou da área de desenvolvimento web.<br><br><br>EN<br>My name is Alexsander Victor, I am studying Information Systems, IT technician and I am in the web development area.</p>
 
 <h2 align="left">About me | Sobre mim</h2>
 
