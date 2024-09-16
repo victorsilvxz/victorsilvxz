@@ -4,7 +4,7 @@
 
 <h2 align="left">About me | Sobre mim</h2>
 
-<p align="left">PT-BR<br>✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo Desenvolvimento Web<br>🎯 Metas: Ser um desenvolvedor web Full Stack<br><br>EN<br>✨ Creating bugs since 2023<br>📚 I'm currently learning Development Web<br>🎯 Goals: Being a Full Stack web developer</p>
+<p align="left">PT-BR<br>✨ Criando bugs desde 2023<br>📚 Atualmente estou estudando Desenvolvimento Web<br>🎯 Metas: Ser um Desenvolvedor Front-End<br><br>EN<br>✨ Creating bugs since 2023<br>📚 I'm currently studying Web Development<br>🎯 Goals: Being a Front End Developer</p>
 
 <h2 align="left">I code with | Programo em</h2>
 
