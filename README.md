@@ -24,14 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<h2 align="left">Social Media | Mídias Sociais</h2>
-
-<div align="center">
-  <a href="https://www.instagram.com/avictorr_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
 <h2 align="left">Statistic | Estatísticas</h2>
 
  <div align="center">
