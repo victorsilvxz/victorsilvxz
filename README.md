@@ -45,13 +45,14 @@
 - **Frontend Web com React Js: Integração com Backend** - Samsung Ocean
 
 ## Contato
+## Contato
 
 - **LinkedIn:** [Alexsander Victor](https://www.linkedin.com/in/alexsanderr)
 - **Email:** <alexvictor2411@gmail.com>
 - **GitHub:** [victorsilvxz](https://github.com/victorsilvxz)
 - **Instagram:** [@victorsilvxz](https://www.instagram.com/victorsilvxz)
 
-[![Linkedin](https://img.shields.io/badge/-username-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsanderr)](https://www.linkedin.com/in/alexsanderr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsanderr)](https://www.linkedin.com/in/alexsanderr)
 [![Gmail Badge](https://img.shields.io/badge/-alexvictor2411@gmail.com-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:alexvictor2411@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/victorsilvxz?label=follow&style=social)](https://github.com/victorsilvxz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/victorsilvxz)
