@@ -1,12 +1,12 @@
-<h1 align="left">Hey, coders</h1>
+# Alexsander Victor
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação na Fametro.
-- 🌱 Aprendendo mais sobre Programação Web (Front-End) e Análise de Cibersegurança.
-  
-## Minhas Skills
+- 🤔 **Explorando novas tecnologias** e desenvolvendo soluções de software.
+- 🎓 **Estudante de Sistemas de Informação** na Fametro.
+- 🌱 **Aprendendo** Programação Web (Front-End) e Análise de Cibersegurança.
 
-**Aplicações e dados**
+## Habilidades Técnicas
+
+### Aplicações e Dados
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -20,29 +20,49 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**DevOps**
+### DevOps
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+### Ferramentas de Desenvolvimento
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
+## Estatísticas do GitHub
 
 <a href="https://github.com/victorsilvxz" title="Perfil do Alexsander Victor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsilvxz&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Projetos Notáveis
+
+- **Projeto Web Interativo** - [Link para o Projeto] - Desenvolvimento de uma aplicação web completa usando React e Node.js.
+- **Sistema de Gerenciamento de Dados** - [Link para o Repositório] - Implementação de um sistema de gerenciamento de banco de dados com MySQL.
+
+## Certificações e Cursos
+
+- **Curso de Segurança Cibernética** - Udemy
+- **Desenvolvimento Front-End Avançado** - Coursera
+
+## Contato
+
+- **LinkedIn:** [Alexsander Victor](https://www.linkedin.com/in/alexsanderr)
+- **Email:** <alexvictor2411@gmail.com>
+- **GitHub:** [victorsilvxz](https://github.com/victorsilvxz)
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsanderr)](https://www.linkedin.com/in/alexsanderr)
-[![Gmail Badge](https://img.shields.io/badge/alexvictor2411@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white=link=mailto:alexvictor2411@gmail.com)](mailto:alexvictor2411@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/alexvictor2411@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexvictor2411@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/victorsilvxz?label=follow&style=social)](https://github.com/victorsilvxz/)
 
+## Sobre Mim
 
+Eu sou um desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Sempre estou aprendendo algo novo, seja uma linguagem de programação ou uma técnica de segurança digital. Meu objetivo é combinar minhas habilidades técnicas com práticas de desenvolvimento sustentável e segurança para criar produtos que não só funcionem bem mas também sejam seguros e escaláveis.
+
+---
+
+Se você gostaria de colaborar em algum projeto, discutir tecnologias emergentes, ou simplesmente trocar ideias, sinta-se à vontade para entrar em contato!
