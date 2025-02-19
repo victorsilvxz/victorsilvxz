@@ -39,15 +39,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsilvxz&theme=dracula&show_icons=true" />
 </a>
 
-## Projetos Notáveis
-
-- **Projeto Web Interativo** - [Link para o Projeto] - Desenvolvimento de uma aplicação web completa usando React e Node.js.
-- **Sistema de Gerenciamento de Dados** - [Link para o Repositório] - Implementação de um sistema de gerenciamento de banco de dados com MySQL.
-
 ## Certificações e Cursos
 
-- **Curso de Segurança Cibernética** - Udemy
-- **Desenvolvimento Front-End Avançado** - Coursera
+- **Framework Scrum** - Samsung Ocean
+- **Frontend Web com React Js: Integração com Backend** - Samsung Ocean
 
 ## Contato
 
