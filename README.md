@@ -1,4 +1,4 @@
-# Alexsander Victor
+# Hey, coders!
 
 ###
 
@@ -53,7 +53,6 @@
 - **Frontend Web com React Js: Integração com Backend** - Samsung Ocean
 - **Técnico de Informática** - CETAM
 
-## Contato
 ## Contato
 
 - **LinkedIn:** [Alexsander Victor](https://www.linkedin.com/in/alexsanderr)
