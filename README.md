@@ -53,8 +53,6 @@
 - **Frontend Web com React Js: Integração com Backend** - Samsung Ocean
 - **Técnico de Informática** - CETAM
 
-## Contato
-
 <h2 align="left">Meu Contato /Contact me!</h2>
 
 ###
