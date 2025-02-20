@@ -55,15 +55,24 @@
 
 ## Contato
 
-- **LinkedIn:** [Alexsander Victor](https://www.linkedin.com/in/alexsanderr)
-- **Email:** <alexvictor2411@gmail.com>
-- **GitHub:** [victorsilvxz](https://github.com/victorsilvxz)
-- **Instagram:** [@victorsilvxz](https://www.instagram.com/victorsilvxz)
+<h2 align="left">Meu Contato /Contact me!</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsanderr)](https://www.linkedin.com/in/alexsanderr)
-[![Gmail Badge](https://img.shields.io/badge/-alexvictor2411@gmail.com-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:alexvictor2411@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/victorsilvxz?label=follow&style=social)](https://github.com/victorsilvxz/)
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/victorsilvxz)
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="www.linkedin.com/in/alexsanderr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="alexvictor2411@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="www.instagram.com/in/victorsilvxz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
 
 ## Sobre Mim
 
